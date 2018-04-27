@@ -1,4 +1,4 @@
-#FilmRecommendation: Recommend movies to users according to textual content of scripts.
+FilmRecommendation: Recommend movies to users according to textual content of scripts.
 
 1. Use MeTA to build the search engine for user input.
 
