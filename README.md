@@ -1,12 +1,13 @@
 FilmRecommendation: Recommend movies to users according to textual content of scripts.
+0. For dataset download and preprocessing, please cd to rebuild_database and read usage.txt
 
-1. Use MeTA to build the search engine for user input.
+1. Use MeTA to build the search engine for user input
 
-2. Use AutoPhrase for extracting high quality words from movie scripts and then recommend 10 most similar movies from database.
+2. Use AutoPhrase for extracting high quality words from movie scripts and then recommend 10 most similar movies from database
 
-3. Use SVM for classifying user input script to predict their favorite tags.
+3. Use SVM for classifying user input script to predict their favorite tags
 
-4. Use topic modeling and clustering to recommend tag-related keywords.
+4. Use topic modeling and clustering to recommend tag-related keywords
 
 5. Database comes from: https://nlds.soe.ucsc.edu/node/34/done?sid=3888&token=e3253342d010f9b1a5da26c6e7d56b03
 
